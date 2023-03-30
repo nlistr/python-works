@@ -1,0 +1,5 @@
+import socket
+
+ip_address = socket.gethostbyname("arammeem.postman.co")
+
+print("IP address:", ip_address)

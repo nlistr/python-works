@@ -1,0 +1,4 @@
+from datetime import datetime
+today = datetime.today()
+unix_time = today.timestamp()
+print("Unix time:", unix_time)

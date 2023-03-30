@@ -1,0 +1,112 @@
+{
+    "productOptions": [
+        {
+            "productOptionKey": "option_4",
+            "nameEn": "option_4",
+            "nameAr": "option_4",
+            "titleEn": "option_4",
+            "titleAr": "option_4",
+            "min": 0,
+            "max": 3,
+            "enableQuantity": false,
+            "optionValues": [
+                {
+                    "optionValueKey": "optionValue_4",
+                    "nameEn": "Value_4",
+                    "nameAr": "Value_4",
+                    "price": {
+                        "price": 2.0
+                    }
+                }
+            ]
+        },
+        {
+            "productOptionKey": "option_4",
+            "nameEn": "option_4",
+            "nameAr": "option_4",
+            "titleEn": "option_4",
+            "titleAr": "option_4",
+            "min": 0,
+            "max": 3,
+            "enableQuantity": false,
+            "optionValues": [
+                {
+                    "optionValueKey": "optionValue_4",
+                    "nameEn": "Value_4",
+                    "nameAr": "Value_4",
+                    "price": {
+                        "price": 2.0
+                    }
+                }
+            ]
+        }
+    ],
+    "products": [
+        {
+            "productKey": "pkey_7",
+            "nameEn": "Food_7",
+            "nameAr": "Food_7",
+            "descriptionEn": "Food_7",
+            "descriptionAr": "Food_7",
+            "price": {
+                "price": 22.0,
+                "discountedPrice": 10.0
+            },
+            "tags": [
+                "Sandwich"
+            ],
+            "mediaFiles": [],
+            "productOptions": []
+        },
+        {
+            "productKey": "pkey_7",
+            "nameEn": "Food_7",
+            "nameAr": "Food_7",
+            "descriptionEn": "Food_7",
+            "descriptionAr": "Food_7",
+            "price": {
+                "price": 22.0,
+                "discountedPrice": 10.0
+            },
+            "tags": [
+                "Sandwich"
+            ],
+            "mediaFiles": [],
+            "productOptions": []
+        },
+        {
+            "productKey": "pkey_7",
+            "nameEn": "Food_7",
+            "nameAr": "Food_7",
+            "descriptionEn": "Food_7",
+            "descriptionAr": "Food_7",
+            "price": {
+                "price": 22.0,
+                "discountedPrice": 10.0
+            },
+            "tags": [
+                "Sandwich"
+            ],
+            "mediaFiles": [],
+            "productOptions": []
+        }
+    ],
+    "schedules": [
+        {
+            "scheduleKey": "Test_11",
+            "workTime": "00:00-20:01,MO,SU,TH,WE,TU"
+        },
+        {
+            "scheduleKey": "Test_11",
+            "workTime": "00:00-20:01,MO,SU,TH,WE,TU"
+        },
+        {
+            "scheduleKey": "Test_11",
+            "workTime": "00:00-20:01,MO,SU,TH,WE,TU"
+        },
+        {
+            "scheduleKey": "Test_11",
+            "workTime": "00:00-20:01,MO,SU,TH,WE,TU"
+        }
+    ]
+}
